@@ -26,7 +26,7 @@ public class TestSelenium {
         WebElement message = driver.findElement(By.id("message"));
         message.getText();
 
-        driver.quit();
+  //      driver.quit();
     }
 
 
